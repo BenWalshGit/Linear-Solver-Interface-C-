@@ -1,1 +1,1 @@
-# Linear-Solver-Interface-C-
+# Linear-Solver-Interface-C++
